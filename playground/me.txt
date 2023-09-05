@@ -1,5 +1,0 @@
-{{#user}}
-Name: Himanshu Raj
-Skills: C++, HTML, CSS, JS, Next.js
-Email: himanshurj85@gmail.com
-{{/user}}
